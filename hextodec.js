@@ -82,6 +82,6 @@ function dectohex(number){
     console.log(hexarray.join(""));
     
 }
-
+console.log("start")
 hextodec("E1");
 dectohex("205")
